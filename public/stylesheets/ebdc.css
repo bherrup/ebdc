@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    text-align: center;
+    background: black;
+}
+
+#content {
+    background: url(/images/backsplash_eb.jpg) no-repeat center center black;
+    margin: auto;
+    min-width: 1024px;
+    max-width: 1024px;
+    min-height: 678px;
+}
+
+#header {
+    text-align: right;
+    right:  0px;
+}
+
+#footer {
+    bottom: 0px;
+    right:  0px;
+}
+
+.infologo {
+    width: 150px;
+    height: 150px;
+}
